@@ -2,6 +2,7 @@
 // in the navbar, we should have an about option so the user can see which version we're running and build date
 
 import React from "react";
+import { makeStyles } from '@material-ui/core/styles';
 import { Typography, Button } from "@material-ui/core";
 
 const Home = () => {
@@ -19,7 +20,7 @@ return (
     <br/>
     <Typography variant="h4" align="center">
         <Button align="center" variant="contained" color="primary">About</Button>
-    </Typography>
+     </Typography>
 
     </>
     )
