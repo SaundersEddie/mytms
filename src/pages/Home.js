@@ -4,4 +4,18 @@
 import React from "react";
 import { Typography } from "@material-ui/core";
 
-export default () => <Typography variant="h4">Welcome Home!</Typography>;
+const Home = () => {
+return (
+    <>
+    <Typography variant="h2" align="center">
+    myTMS - The mini TMS
+    </Typography>
+    <br/>
+
+    <Typography variant="h4" align="center">
+        Login or Create Account
+    </Typography>
+    </>
+    )
+}
+export default Home;
