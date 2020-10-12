@@ -1,4 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# myTMS - The mini TMS
+
+## Table of Contents
+
+About<br>
+Techncology<br>
+Usage<br>
+Credits<br>
+
 
 ## Available Scripts
 
