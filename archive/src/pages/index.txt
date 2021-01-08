@@ -1,1 +1,0 @@
-Just a text file to make sure folder sdtructuire is pushed to git hub
